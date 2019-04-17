@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: itcast-springboot
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: mfp
+Implementation-Vendor-Id: cn.itcast.springboot
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/itcast-sprin
+ gboot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
